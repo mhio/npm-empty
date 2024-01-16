@@ -1,0 +1,13 @@
+{
+  "name": "@mhio/empty",
+  "version": "1.0.0",
+  "description": "An empty package with nothing, to resolve unwanted dependencies to",
+  "main": "index.js",
+  "scripts": {
+    "empty": "npm publish --access=public"
+  },
+  "repository": "https://github.com/mhio/npm-empty",
+  "author": "mhio",
+  "private": false,
+  "license": "MIT"
+}
